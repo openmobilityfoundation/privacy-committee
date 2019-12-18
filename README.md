@@ -20,7 +20,7 @@ In the near term, our work focuses on two deliverables:
 
 We're building a catalog of current principles, policies, methods, and technologies applicable to location data privacy and anonymization.
 
-2. Privacy and Security Considerations Checklist
+2. [Privacy and Security Considerations Checklist](https://docs.google.com/document/d/1K19Ax6Y79H9u1Vps3Er_lzuTMNX_BH90TcfAhk9CMN8/edit?folder=1lBm_mAxhgScvnGo_FISy5-YpsJb-WtnS#heading=h.29rw2t1kb2di)
 
 We're writing a guide for mobility data users that addresses key questions and considerations when making technology and policy decisions.
 
