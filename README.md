@@ -16,7 +16,7 @@ Per our charter,
 
 In the near term, our work focuses on two deliverables:
 
-1. Inventory of the State of Practice
+1. [Inventory of the State of Practice](https://docs.google.com/document/d/1ou2WcIJzlMewnZY6WrEcIgK8Vh3aqnOkgIByxrGRXds/edit?usp=sharing)
 
 We're building a catalog of current principles, policies, methods, and technologies applicable to location data privacy and anonymization.
 
