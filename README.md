@@ -8,7 +8,7 @@ To that end, we seek to bring together our members and engage subject matter exp
 
 Join our [Google Group](https://groups.google.com/a/openmobilityfoundation.org/forum/#!forum/privcomm/join) if you'd like to contribute to our work and/or attend our monthly meetings. You'll also need to agree to our [contributor license agreement](https://cla-assistant.io/openmobilityfoundation/mobility-data-specification?redirect=true).
 
-We meet on a monthly basis in an open form. Refer to the [OMF Public Calendar](https://github.com/openmobilityfoundation/mobility-data-specification/wiki#omf-public-calendar) for details on our upcoming meetings.
+We meet on a monthly basis in an open forum. Refer to the [OMF Public Calendar](https://github.com/openmobilityfoundation/mobility-data-specification/wiki#omf-public-calendar) for details on our upcoming meetings.
 
 ## Current Work
 
