@@ -6,7 +6,7 @@ To that end, we seek to bring together our members and engage subject matter exp
 
 ## Contributing
 
-Reach out to [John Clary](mailto:john.clary@austintexas.gov) if you'd like to contribute to our work and/or attend our monthly meetings. You'll also need to agree to our [contributor license agreement](https://cla-assistant.io/openmobilityfoundation/mobility-data-specification?redirect=true).
+Join our [Google Group](https://groups.google.com/a/openmobilityfoundation.org/forum/#!forum/privcomm/join) if you'd like to contribute to our work and/or attend our monthly meetings. You'll also need to agree to our [contributor license agreement](https://cla-assistant.io/openmobilityfoundation/mobility-data-specification?redirect=true).
 
 ## Current Work
 
