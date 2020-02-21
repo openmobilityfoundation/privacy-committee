@@ -32,4 +32,4 @@ We are developing a set of principles to guide the OMF as it develops tools and 
 
 ## Meeting Notes
 
-- [20 Feb 2020 Meeting Notes](https://github.com/openmobilityfoundation/privacy-committee/issues/11)
+- [18 Feb 2020 Meeting Notes](https://github.com/openmobilityfoundation/privacy-committee/issues/11)
