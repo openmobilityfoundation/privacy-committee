@@ -16,7 +16,7 @@ Per our charter,
 
 > The Privacy, Security and Transparency committee will review and develop policy for appropriate transparency and data protection measures such as privacy, data retention and anonymization features, as well as technical security practices related to urban mobility data including but not limited to encryption, role-based access control, and penetration testing.  These policies shall support responsible and trustworthy data management practices that serve individual privacy, security, transparency and safety.
 
-In the near term, our work focuses on two deliverables:
+In the near term, our work focuses on three deliverables:
 
 1. [Inventory of the State of Practice](https://docs.google.com/document/d/1ou2WcIJzlMewnZY6WrEcIgK8Vh3aqnOkgIByxrGRXds/edit?usp=sharing)
 
@@ -25,6 +25,10 @@ We're building a catalog of current principles, policies, methods, and technolog
 2. [Privacy and Security Considerations Checklist](https://docs.google.com/document/d/1K19Ax6Y79H9u1Vps3Er_lzuTMNX_BH90TcfAhk9CMN8/edit?folder=1lBm_mAxhgScvnGo_FISy5-YpsJb-WtnS#heading=h.29rw2t1kb2di)
 
 We're writing a guide for mobility data users that addresses key questions and considerations when making technology and policy decisions.
+
+3. Privacy Principles
+
+We are developing a set of principles to guide the OMF as it develops tools and technologies, and to articulate the common ground among public- and private-sector users of mobility data about the need to respect and protect individual privacy. 
 
 ## Resources
 
