@@ -30,6 +30,6 @@ We're writing a guide for mobility data users that addresses key questions and c
 
 We are developing a set of principles to guide the OMF as it develops tools and technologies, and to articulate the common ground among public- and private-sector users of mobility data about the need to respect and protect individual privacy. 
 
-## Resources
+## Meeting Notes
 
-Meeting notes and working docs will be made available on Google Drive. Coming soon.
+- [18 Feb 2020 Meeting Notes](https://github.com/openmobilityfoundation/privacy-committee/issues/11)
