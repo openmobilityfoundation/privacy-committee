@@ -18,9 +18,9 @@ Per our charter,
 
 In the near term, our work focuses on three deliverables:
 
-1. [Inventory of the State of Practice](https://docs.google.com/document/d/1ou2WcIJzlMewnZY6WrEcIgK8Vh3aqnOkgIByxrGRXds/edit?usp=sharing)
+1. [Inventory of the State of Practice](https://github.com/openmobilityfoundation/privacy-committee/wiki/State-of-the-Practice) [Complete]
 
-We're building a catalog of current principles, policies, methods, and technologies applicable to location data privacy and anonymization.
+We built a catalog of current principles, policies, methods, and technologies applicable to location data privacy and anonymization.
 
 2. [Privacy and Security Considerations Checklist](https://docs.google.com/document/d/1K19Ax6Y79H9u1Vps3Er_lzuTMNX_BH90TcfAhk9CMN8/edit?folder=1lBm_mAxhgScvnGo_FISy5-YpsJb-WtnS#heading=h.29rw2t1kb2di)
 
