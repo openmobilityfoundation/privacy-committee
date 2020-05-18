@@ -24,7 +24,7 @@ We built a catalog of current principles, policies, methods, and technologies ap
 
 2. [MDS Privacy Guide](https://docs.google.com/document/d/1JvVSWw1-VwFdYqQIefvKvM0RmfEK2tv1wTyjeyNUavY/edit?usp=sharing)
 
-The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying out the considerations and best practices related to MDS data and personal privacy. The current draft was authored by the voting membership of the OMF's Privacy, Security, and Transparency Committee. We are currently accepting feeback, [here](https://docs.google.com/forms/d/e/1FAIpQLSdqIeUarDh4NEgfWnbs8l0AAKdSUGeq0QnFx91Cly7WmdQgdg/viewform)
+The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying out the considerations and best practices related to MDS data and personal privacy. The current draft was authored by the voting membership of the OMF's Privacy, Security, and Transparency Committee. We are currently accepting feeback, [here](https://docs.google.com/forms/d/e/1FAIpQLSdqIeUarDh4NEgfWnbs8l0AAKdSUGeq0QnFx91Cly7WmdQgdg/viewform).
 
 3. Privacy Principles
 
