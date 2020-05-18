@@ -22,9 +22,9 @@ In the near term, our work focuses on three deliverables:
 
 We built a catalog of current principles, policies, methods, and technologies applicable to location data privacy and anonymization.
 
-2. [Privacy and Security Considerations Checklist](https://docs.google.com/document/d/1K19Ax6Y79H9u1Vps3Er_lzuTMNX_BH90TcfAhk9CMN8/edit?folder=1lBm_mAxhgScvnGo_FISy5-YpsJb-WtnS#heading=h.29rw2t1kb2di)
+2. [MDS Privacy Guide](https://docs.google.com/document/d/1JvVSWw1-VwFdYqQIefvKvM0RmfEK2tv1wTyjeyNUavY/edit?usp=sharing)
 
-We're writing a guide for mobility data users that addresses key questions and considerations when making technology and policy decisions.
+The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying out the considerations and best practices related to MDS data and personal privacy. The current draft was authored by the voting membership of the OMF's Privacy, Security, and Transparency Committee. We are currently accepting feeback, [here](https://docs.google.com/forms/d/e/1FAIpQLSdqIeUarDh4NEgfWnbs8l0AAKdSUGeq0QnFx91Cly7WmdQgdg/viewform)
 
 3. Privacy Principles
 
