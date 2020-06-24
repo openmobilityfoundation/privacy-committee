@@ -30,6 +30,25 @@ The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying
 
 We are developing a set of principles to guide the OMF as it develops tools and technologies, and to articulate the common ground among public- and private-sector users of mobility data about the need to respect and protect individual privacy. 
 
+## Committee Members
+
+Voting member list for the Privacy, Security, and Transparency Committee. 
+
+**Public Sector**
+- John Clary  -  City of Austin (co-chair)
+- Alex Demisch -  San Francisco Municipal Transportation Agency
+- Stephanie Dock - DDOT (Washington, DC)
+- Danielle Elkins - City of Minneapolis
+- Steve Hoyt-McBeth - Portland Bureau of Transportation
+- Eliot Rose - Portland Metro
+- Matt Worona - City of Kelowna
+
+**Private Sector**
+- Ed Fu - Bird
+- Josh Johnson - SPIN (co-chair)
+- Maggie Mobley - Lacuna
+- Irina Slavina - Blue Systems USA
+
 ## Meeting Notes
 
 - [18 Feb 2020 Meeting Notes](https://github.com/openmobilityfoundation/privacy-committee/issues/11)
