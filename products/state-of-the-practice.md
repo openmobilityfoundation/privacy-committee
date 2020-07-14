@@ -58,23 +58,15 @@ Open / public mobility data sets, and information about approaches to anonymizat
 
 ### Open Datasets
 
-- City of Austin, TX, USA: [Shared Micromobility Vehicle Trips](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r)
-
-- City of Calgary, Alberta, Canada: [Shared Mobility Pilot Trips](https://data.calgary.ca/browse?q=shared%20mobility%20pilot&sortBy=relevance)
-
-- City of Chicago, IL, USA: [E-Scooter Trips](https://data.cityofchicago.org/Transportation/E-Scooter-Trips-2019-Pilot/2kfw-zvte)
-
-- City of Kansas City, MO, USA: [Microtransit (Scooter and Ebike) Trips](https://data.kcmo.org/Transportation/Microtransit-Scooter-and-Ebike-Trips/dy5n-ewk5)
-
-- City of Louisville, KY, USA: [Dockless Vehicle Trips](https://data.louisvilleky.gov/dataset/dockless-vehicles) (plus k-anonymity)
+| Entity                           | Dataset                                                                                                                                         | Anonymization Method(s)                | Geography                                                   |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------- |
+| City of Austin, TX, USA          | [Shared Micromobility Vehicle Trips](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r)     | Timestamps rounded to 15-min intervals | Census tract polygons                                       |
+| City of Calgary, Alberta, Canada | [Shared Mobility Pilot Trips](https://data.calgary.ca/browse?q=shared%20mobility%20pilot&sortBy=relevance)                                      |                                        |
+| City of Chicago, IL, USA         | [E-Scooter Trips](https://data.cityofchicago.org/Transportation/E-Scooter-Trips-2019-Pilot/2kfw-zvte)                                           |                                        |
+| City of Kansas City, MO,         | SA: [Microtransit (Scooter and Ebike) Trips](https://data.kcmo.org/Transportation/Microtransit-Scooter-and-Ebike-Trips/dy5n-ewk5) (fuzzed data) |                                        |
+| City of Louisville, KY, USA      | [Dockless Vehicle Trips](https://data.louisvilleky.gov/dataset/dockless-vehicles)                                                               | Timestamps rounded to 15-min intervals | Origin/destination points truncated to three decimal places |
 
 ### Publishing Methodologies
-
-**Binning, fuzzing**
-
-**Census tracts**
-
-**Street segments**
 
 - City of Minneapolis: [Motorized Foot Scooter Trips](http://opendata.minneapolismn.gov/datasets/motorized-foot-scooter-trips-2018#__sid=js2)
 
