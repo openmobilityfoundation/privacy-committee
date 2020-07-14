@@ -1,40 +1,46 @@
 Below are a collection of policy and technical resources related to the handling and protection of MDS and other types of mobility data. They are provided here to aid cities in developing their own policies around data privacy, security, and transparency.
 
-## Privacy Principles and Policies
+## Privacy Principles, Policies, and Guidelines
 
-Policy documents related to the privacy implications of mobility data collection, storage, and use.
+_Policy documents related to the privacy implications of mobility data collection, storage, and use._
 
-- Los Angeles DOT: [Los Angeles DOT Data Protection Principles](https://ladot.io/wp-content/uploads/2019/03/LADOT_Data_Protection_Principles-1.pdf)
+- City of Los Angeles, CA, USA: [Los Angeles DOT Data Protection Principles](https://ladot.io/wp-content/uploads/2019/03/LADOT_Data_Protection_Principles-1.pdf)
 
-- City of Minneapolis: [Privacy Principles [DRAFT]](http://www.minneapolismn.gov/www/groups/public/@council/documents/webcontent/data-privacy-principles.pdf)
+- City of Minneapolis, MN, USA: [Privacy Principles [DRAFT]](http://www.minneapolismn.gov/www/groups/public/@council/documents/webcontent/data-privacy-principles.pdf)
 
-- City of Seattle: [Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf) / [Privacy Principles](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf)
+- City of Seattle, WA, USA: [Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf) / [Privacy Principles](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf)
 
-- City of Seattle: [Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf)
-
-- NACTO: [Guidelines for Managing Mobility Data](https://nacto.org/managingmobilitydata/)
-
-- Mobility Data Collaborative: [Guidelines for Mobility Data Sharing Governance and Contracting](https://saemobilus.sae.org/content/MDC00001202004/)
+- City of Seattle, WA, USA: [Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf)
 
 - EU Joint Research Center: [Guidelines for public administrations on location privacy](https://joinup.ec.europa.eu/sites/default/files/news/attachment/jrc103110_1-dc246-d3.2_eulf_guideline_on_location_privacy_v1.00_final_-_pubsy.pdf)
 
+- Mobility Data Collaborative: [Guidelines for Mobility Data Sharing Governance and Contracting](https://saemobilus.sae.org/content/MDC00001202004/)
+
+- NACTO: [Guidelines for Managing Mobility Data](https://nacto.org/managingmobilitydata/)
+
+- Open Mobility Foundation: MDS Privacy Guide (in-progress)
+
 ## Data Processing, Aggregation, and Anonymization
 
-Methodologies and tools for ingesting, aggregating, and anonymizing mobility data.
+_Methodologies and tools for ingesting, aggregating, and anonymizing mobility data._
 
-- City of Minneapolis: [Mobility Data Methodology and Analysis](http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/webcontent/wcmsp-218311.pdf)
+### Open Source Code
 
 - City of Austin: [Dockless Data API](https://github.com/cityofaustin/atd-dockless-api)
 
-- City of Santa Monica: [MDS Provider Toolkit](https://github.com/CityofSantaMonica/mds-provider/tree/master/mds)
-
 - City of Louisville: [Open Data Publishing Methodology](https://github.com/louisvillemetro-innovation/dockless-open-data)
 
-- City of Chicago: [How Chicago Protects Privacy in TNP and Taxi Open Data](http://dev.cityofchicago.org/open%20data/data%20portal/2019/04/12/tnp-taxi-privacy.html)
+- City of Santa Monica: [MDS Provider Toolkit](https://github.com/CityofSantaMonica/mds-provider/tree/master/mds)
 
 - SharedStreets: [Mobility Metrics](https://github.com/sharedstreets/mobility-metrics)
 
-- Stae: [Open Data Publisher](https://support.municipal.systems/hc/en-us/articles/360048160613-Publishing-MDS-Derived-Fuzzed-Trip-Data-as-Open-Data-while-Protecting-Rider-Privacy)
+### Methodologies
+
+- City of Chicago: [How Chicago Protects Privacy in TNP and Taxi Open Data](http://dev.cityofchicago.org/open%20data/data%20portal/2019/04/12/tnp-taxi-privacy.html)
+
+- City of Minneapolis: [Mobility Data Methodology and Analysis](http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/webcontent/wcmsp-218311.pdf)
+
+- Stae: [Publishing MDS-Derived Fuzzed Trip Data as Open Data](https://support.municipal.systems/hc/en-us/articles/360048160613-Publishing-MDS-Derived-Fuzzed-Trip-Data-as-Open-Data-while-Protecting-Rider-Privacy)
 
 ## Risk Assessment
 
@@ -44,25 +50,29 @@ Toolkits and resources for understanding and managing risk associated with mobil
 
 - Open Data Institute: [Data Ethics Canvas](https://docs.google.com/document/d/1ug4Cc0BLn7XkvGVSC5YR_M8dU_nq4kA3a0rWVeiiars/edit)
 
-- City of Seattle & Futur of Privacy Forum: [Open Data Privacy Risk Assessment](https://fpf.org/wp-content/uploads/2018/01/FPF-Open-Data-Risk-Assessment-for-City-of-Seattle.pdf) (see especially Appendix C)
+- City of Seattle & Future of Privacy Forum: [Open Data Privacy Risk Assessment](https://fpf.org/wp-content/uploads/2018/01/FPF-Open-Data-Risk-Assessment-for-City-of-Seattle.pdf) (see especially Appendix C)
 
-## Public Data Sharing
+## Open Data
 
 Open / public mobility data sets, and information about approaches to anonymization.
 
+### Open Datasets
+
+- City of Austin, TX, USA: [Shared Micromobility Vehicle Trips](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r)
+
+- City of Calgary, Alberta, Canada: [Shared Mobility Pilot Trips](https://data.calgary.ca/browse?q=shared%20mobility%20pilot&sortBy=relevance)
+
+- City of Chicago, IL, USA: [E-Scooter Trips](https://data.cityofchicago.org/Transportation/E-Scooter-Trips-2019-Pilot/2kfw-zvte)
+
+- City of Kansas City, MO, USA: [Microtransit (Scooter and Ebike) Trips](https://data.kcmo.org/Transportation/Microtransit-Scooter-and-Ebike-Trips/dy5n-ewk5)
+
+- City of Louisville, KY, USA: [Dockless Vehicle Trips](https://data.louisvilleky.gov/dataset/dockless-vehicles) (plus k-anonymity)
+
+### Publishing Methodologies
+
 **Binning, fuzzing**
 
-- City of Louisville: [Dockless Vehicle Trips](https://data.louisvilleky.gov/dataset/dockless-vehicles) (plus k-anonymity)
-
-- City of Kansas City, MO: [Microtransit (Scooter and Ebike) Trips](https://data.kcmo.org/Transportation/Microtransit-Scooter-and-Ebike-Trips/dy5n-ewk5)
-
-- City of Calgary, Alberta: [Shared Mobility Pilot Trips](https://data.calgary.ca/browse?q=shared%20mobility%20pilot&sortBy=relevance)
-
 **Census tracts**
-
-- City of Austin: [Shared Micromobility Vehicle Trips](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r)
-
-- City of Chicago: [E-Scooter Trips](https://data.cityofchicago.org/Transportation/E-Scooter-Trips-2019-Pilot/2kfw-zvte)
 
 **Street segments**
 
