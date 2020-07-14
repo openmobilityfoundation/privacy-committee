@@ -48,7 +48,7 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 ### Methodologies and Guides
 
-#### Mobility-specific approaches
+#### Mobility-specific resources
 
 - City of Minneapolis: [Mobility Data Methodology and Analysis](http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/webcontent/wcmsp-218311.pdf)
 
@@ -56,7 +56,7 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 - Stae: [Publishing MDS-Derived Fuzzed Trip Data as Open Data](https://support.municipal.systems/hc/en-us/articles/360048160613-Publishing-MDS-Derived-Fuzzed-Trip-Data-as-Open-Data-while-Protecting-Rider-Privacy)
 
-#### General approaches
+#### General resources
 
 - European Commission: [Article 29 WP Opinion on Anonymisation Techniques](https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf)
 
