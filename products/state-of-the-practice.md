@@ -2,6 +2,16 @@ Below are a collection of policy and technical resources related to the handling
 
 These resources are provided for reference and do not represent an endorsement or official policy statement of the Open Mobility Foundation.
 
+## Contents
+
+- [Privacy Principles, Policies, and Guidelines](#privacy-principles-policies-and-guidelines)
+- [Data Sharing](#data-sharing)
+- [Data Processing, Aggregation, and Anonymization](#data-processing-aggregation-and-anonymization)
+- [Risk Assessment](#risk-assessment)
+- [Open Data](#open-data)
+- [Data Visualization](#data-visualization)
+- [Outreach and education](#outreach-and-education)
+
 ## Privacy Principles, Policies, and Guidelines
 
 ### Resources Specific to Mobility
