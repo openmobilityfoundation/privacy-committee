@@ -1,3 +1,5 @@
+# Mobility Data State of Practice
+
 Below are a collection of policy and technical resources related to the handling and protection of MDS and other types of mobility data. They are provided here to aid cities in developing their own policies around data privacy, security, and transparency.
 
 These resources are provided for reference and do not represent an endorsement or official policy statement of the Open Mobility Foundation.
