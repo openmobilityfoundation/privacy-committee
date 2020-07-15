@@ -20,11 +20,9 @@ These resources are provided for reference and do not represent an endorsement o
 
 _Policy documents related to the privacy implications of mobility data collection, storage, and use._
 
-- City of Los Angeles, CA: [Los Angeles DOT Data Protection Principles](https://ladot.io/wp-content/uploads/2019/03/LADOT_Data_Protection_Principles-1.pdf)
+- Los Angeles, CA: [Los Angeles DOT Data Protection Principles](https://ladot.io/wp-content/uploads/2019/03/LADOT_Data_Protection_Principles-1.pdf)
 
-- City of Seattle, WA: [Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf) / [Privacy Principles](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf)
-
-- City of Seattle, WA: [Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf)
+- Seattle, WA: [Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf) / [Privacy Principles](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf)
 
 - Mobility Data Collaborative: [Guidelines for Mobility Data Sharing Governance and Contracting](https://saemobilus.sae.org/content/MDC00001202004/)
 
@@ -36,7 +34,7 @@ _Policy documents related to the privacy implications of mobility data collectio
 
 - EU Joint Research Center: [Guidelines for public administrations on location privacy](https://joinup.ec.europa.eu/sites/default/files/news/attachment/jrc103110_1-dc246-d3.2_eulf_guideline_on_location_privacy_v1.00_final_-_pubsy.pdf)
 
-- City of Minneapolis, MN: [Privacy Principles [DRAFT]](http://www.minneapolismn.gov/www/groups/public/@council/documents/webcontent/data-privacy-principles.pdf)
+- Minneapolis, MN: [Privacy Principles [DRAFT]](http://www.minneapolismn.gov/www/groups/public/@council/documents/webcontent/data-privacy-principles.pdf)
 
 ## Data Sharing
 
@@ -50,7 +48,7 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 #### Mobility-specific resources
 
-- City of Minneapolis: [Mobility Data Methodology and Analysis](http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/webcontent/wcmsp-218311.pdf)
+- Minneapolis, MN: [Mobility Data Methodology and Analysis](http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/webcontent/wcmsp-218311.pdf)
 
 - SAE Mobility Data Collaborative: Data Sharing Glossary and Metrics for Shared Micromobility and Data Sharing Glossary and Metrics for Shared Micromobility, availble [here](https://mdc.sae-itc.com/#work). Must provide email address to download.
 
@@ -74,9 +72,9 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 ### Open Source Code
 
-- City of Austin: [Dockless Data API](https://github.com/cityofaustin/atd-dockless-api)
+- Austin, TX: [Dockless Data API](https://github.com/cityofaustin/atd-dockless-api)
 
-- City of Santa Monica: [MDS Provider Toolkit](https://github.com/CityofSantaMonica/mds-provider/tree/master/mds)
+- Santa Monica, CA: [MDS Provider Toolkit](https://github.com/CityofSantaMonica/mds-provider/tree/master/mds)
 
 - Google: [Differential privacy libraries and algorithms](https://github.com/google/differential-privacy/)
 
@@ -86,9 +84,9 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 Toolkits and resources for understanding and managing risk associated with mobility data.
 
-- City of Seattle & Future of Privacy Forum: [Open Data Privacy Risk Assessment](https://fpf.org/wp-content/uploads/2018/01/FPF-Open-Data-Risk-Assessment-for-City-of-Seattle.pdf) (see especially Appendix C)
+- Seattle, WA & Future of Privacy Forum: [Open Data Privacy Risk Assessment](https://fpf.org/wp-content/uploads/2018/01/FPF-Open-Data-Risk-Assessment-for-City-of-Seattle.pdf) (see especially Appendix C)
 
-- DataSF: [Open Data Release Toolkit](https://drive.google.com/file/d/0B0jc1tmJAlTcR0RMV01PM2NyNDA/view)
+- San Francisco, CA: DataSF, [Open Data Release Toolkit](https://drive.google.com/file/d/0B0jc1tmJAlTcR0RMV01PM2NyNDA/view)
 
 - Future of Privacy Forum: [Privacy Risk Assessment for Smart and Connected Communities](https://drive.google.com/open?id=1-G0Hy9LWh-oeth1VMEba8pE91BTnr2oH)
 
@@ -106,14 +104,14 @@ Open / public mobility data sets, and information about approaches to anonymizat
 | Calgary, Alberta | [Shared Mobility Pilot Trips](https://data.calgary.ca/browse?q=shared%20mobility%20pilot&sortBy=relevance)                                  |                                      | Points: origin/destination centroids of custom fishnet                                                     |
 | Chicago, IL      | [E-Scooter Trips](https://data.cityofchicago.org/Transportation/E-Scooter-Trips-2019-Pilot/2kfw-zvte)                                       | Timestamps rounded to nearest hour   | Points: origin/destination census tract centroid; minimum three trips present at start and end tract/time. |
 | Kansas City, MO  | [Microtransit (Scooter and Ebike) Trips](https://data.kcmo.org/Transportation/Microtransit-Scooter-and-Ebike-Trips/dy5n-ewk5)               | Timestamps rounded to nearest 15-min | Points: origin/destination truncated to three decimal places                                               |
-| Louisville, KY   | [Dockless Vehicle Trips](https://data.louisvilleky.gov/dataset/dockless-vehicles)                                                           | Timestamps rounded to nearest 15-min | Points: origin/destination truncated to three decimal places                                               |
+| Louisville, KY   | [Dockless Vehicle Trips](https://data.louisvilleky.gov/dataset/dockless-vehicles)                                                           | Timestamps rounded to nearest 15-min, k-anonymity for infrequent O/D pairs | Points: origin/destination truncated to three decimal places (two decimals for infrequent O/D pairs)                                               |
 | Minneapolis, MN  | [Motorized Foot Scooter Trips](http://opendata.minneapolismn.gov/datasets/motorized-foot-scooter-trips-2018#__sid=js2)                      | Timestamps rounded to nearest 30-min | Lines: origin/destination street segment                                                                   |
 
 ### Publishing Methodologies and Guides
 
 - Austin, TX: [Explore Dockless Data With Us](https://medium.com/civiqueso/explore-dockless-data-with-austin-transportation-4a308aa5c18)
 
-- City of Chicago: [How Chicago Protects Privacy in TNP and Taxi Open Data](http://dev.cityofchicago.org/open%20data/data%20portal/2019/04/12/tnp-taxi-privacy.html)
+- Chicago, IL: [How Chicago Protects Privacy in TNP and Taxi Open Data](http://dev.cityofchicago.org/open%20data/data%20portal/2019/04/12/tnp-taxi-privacy.html)
 
 - Louisville, KY: [Open Data Publishing Methodology](https://github.com/louisvillemetro-innovation/dockless-open-data)
 
@@ -125,11 +123,11 @@ Open / public mobility data sets, and information about approaches to anonymizat
 
 _Public-facing mobility data visualization and reporting tools._
 
-- City of Louisville: [Dockless Vehicle Origin & Destination Map](https://cdolabs-admin.carto.com/builder/f57ee92e-09c3-4efd-b7c0-3d561cc9e951/embed)
+- Louisville, KY: [Dockless Vehicle Origin & Destination Map](https://cdolabs-admin.carto.com/builder/f57ee92e-09c3-4efd-b7c0-3d561cc9e951/embed)
 
-- City of Austin: [Micromobility Data Explorer](https://github.com/cityofaustin/atd-dockless-dataviz) / [Micromobility Program Reporting Dashboard](https://data.mobility.austin.gov/micromobility-data/)
+- Austin, TX: [Micromobility Data Explorer](https://github.com/cityofaustin/atd-dockless-dataviz) / [Micromobility Program Reporting Dashboard](https://data.mobility.austin.gov/micromobility-data/)
 
-- City of Kansas City, MO: [Scooter & E-Bike Heatmap](https://data.kcmo.org/Transportation/Scooter-E-Bike-Heatmap-end-trips-/44zy-nsnr)
+- Kansas City, MO: [Scooter & E-Bike Heatmap](https://data.kcmo.org/Transportation/Scooter-E-Bike-Heatmap-end-trips-/44zy-nsnr)
 
 ## Outreach and education
 
