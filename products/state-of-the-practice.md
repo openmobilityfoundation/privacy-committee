@@ -20,7 +20,7 @@ These resources are provided for reference and do not represent an endorsement o
 
 _Policy documents related to the privacy implications of mobility data collection, storage, and use._
 
-- Los Angeles, CA: [Los Angeles DOT Data Protection Principles](https://ladot.io/wp-content/uploads/2019/03/LADOT_Data_Protection_Principles-1.pdf)
+- Los Angeles, CA: [LADOT Data Protection Principles](https://clkrep.lacity.org/onlinedocs/2019/19-1355_rpt_DOT_6-14-2020.pdf) (updated June 2020)
 
 - Seattle, WA: [Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf) / [Privacy Principles](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf)
 
