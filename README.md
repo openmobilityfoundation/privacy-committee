@@ -18,7 +18,7 @@ Per our charter,
 
 In the near term, our work focuses on three deliverables:
 
-1. [Inventory of the State of Practice](/mobility-data-state-of-practice.md) [Complete]
+1. [Inventory of the State of Practice](/products/state-of-the-practice.md) [Complete]
 
 We built a catalog of current principles, policies, methods, and technologies applicable to location data privacy and anonymization.
 
