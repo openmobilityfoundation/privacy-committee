@@ -34,7 +34,7 @@ _Policy documents related to the privacy implications of mobility data collectio
 
 - EU Joint Research Center: [Guidelines for public administrations on location privacy](https://joinup.ec.europa.eu/sites/default/files/news/attachment/jrc103110_1-dc246-d3.2_eulf_guideline_on_location_privacy_v1.00_final_-_pubsy.pdf)
 
-- Minneapolis, MN: [Proposed Privacy Principles]](https://lims.minneapolismn.gov/Download/RCA/12223/Data%20Privacy%20Principles%20Report.pdf)
+- Minneapolis, MN: [Proposed Privacy Principles](https://lims.minneapolismn.gov/Download/RCA/12223/Data%20Privacy%20Principles%20Report.pdf)
 
 ## Data Sharing
 
