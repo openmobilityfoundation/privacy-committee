@@ -30,6 +30,8 @@ _Policy documents related to the privacy implications of mobility data collectio
 
 - Open Mobility Foundation: MDS Privacy Guide (in-progress)
 
+- Vianova: [Presentation to POLIS network](https://f.hubspotusercontent30.net/hubfs/6456989/Vianova_Polis-Working-Group_2020.pdf) about GDPR & MDS (see pg. 19-28)
+
 ### Consumer Rights
 
 - Vianova: [MDS GDPR statement](https://f.hubspotusercontent30.net/hubfs/6456989/Vianova_GDPR-Statement.pdf), which provides information on how GDPR applies to MDS data and how the parties involved can be compliant.
