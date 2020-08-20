@@ -7,6 +7,7 @@ These resources are provided for reference and do not represent an endorsement o
 ## Contents
 
 - [Privacy Principles, Policies, and Guidelines](#privacy-principles-policies-and-guidelines)
+- [Permit & Licensing Requirements](#permit-&-licensing-requirements)
 - [Data Sharing](#data-sharing)
 - [Data Processing, Aggregation, and Anonymization](#data-processing-aggregation-and-anonymization)
 - [Risk Assessment](#risk-assessment)
@@ -39,6 +40,14 @@ _Policy documents related to the privacy implications of mobility data collectio
 ## Data Sharing
 
 - Shared-Use Mobility Center: [Objective-Driven Data Sharing for Transit Agencies in Mobility Partnerships](https://learn.sharedusemobilitycenter.org/overview/white-paper-objective-driven-data-sharing-for-transit-agencies-in-mobility-partnerships/)
+
+## Permit & Licensing Requirements
+
+- Austin, TX: [Director Rules for Deployment and Operation of Shared Small Vehicle Mobility Systems](http://austintexas.gov/sites/default/files/files/Transportation/Dockless_Final_Accepted_Searchable.pdf)
+- Louisville, KY: [Dockless Vehicle Policy](https://louisvilleky.gov/sites/default/files/public_works/pdf_files/docklesspolicy_20190712.pdf)
+- Los Angeles, CA
+- Long Beach, CA: [Shared Micro-Mobility Program](http://www.longbeach.gov/globalassets/go-active-lb/media-library/documents/programs/micro-mobility-program-e-scooterse-bikes/city-of-long-beach_shared-micro-mobility-program_permit_2019-2020)
+- San Francisco, CA: [Powered Scooter Share Program Permit](https://www.sfmta.com/sites/default/files/reports-and-documents/2019/12/1._scoot_permit_and_terms_2019.pdf)
 
 ## Data Processing, Aggregation, and Anonymization
 
@@ -98,14 +107,14 @@ Open / public mobility data sets, and information about approaches to anonymizat
 
 ### Open Datasets
 
-| Entity           | Dataset                                                                                                                                     | Anonymization Method(s)              | Geography                                                                                                  |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| Austin, TX       | [Shared Micromobility Vehicle Trips](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r) | Timestamps rounded to nearest 15-min | Polygons: origin/destination census tract                                                                  |  
-| Calgary, Alberta | [Shared Mobility Pilot Trips](https://data.calgary.ca/browse?q=shared%20mobility%20pilot&sortBy=relevance)                                  | Timestamps rounded to nearest hour   | Points: origin/destination centroids of custom hex fishnet. Lines: origin/destination street segment       |
-| Chicago, IL      | [E-Scooter Trips](https://data.cityofchicago.org/Transportation/E-Scooter-Trips-2019-Pilot/2kfw-zvte)                                       | Timestamps rounded to nearest hour   | Points: origin/destination census tract centroid; minimum three trips present at start and end tract/time. |
-| Kansas City, MO  | [Microtransit (Scooter and Ebike) Trips](https://data.kcmo.org/Transportation/Microtransit-Scooter-and-Ebike-Trips/dy5n-ewk5)               | Timestamps rounded to nearest 15-min | Points: origin/destination truncated to three decimal places                                               |
-| Louisville, KY   | [Dockless Vehicle Trips](https://data.louisvilleky.gov/dataset/dockless-vehicles)                                                           | Timestamps rounded to nearest 15-min, k-anonymity for infrequent O/D pairs | Points: origin/destination truncated to three decimal places (two decimals for infrequent O/D pairs)                                               |
-| Minneapolis, MN  | [Motorized Foot Scooter Trips](http://opendata.minneapolismn.gov/datasets/motorized-foot-scooter-trips-2018#__sid=js2)                      | Timestamps rounded to nearest 30-min | Lines: origin/destination street segment                                                                   |
+| Entity           | Dataset                                                                                                                                     | Anonymization Method(s)                                                    | Geography                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Austin, TX       | [Shared Micromobility Vehicle Trips](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r) | Timestamps rounded to nearest 15-min                                       | Polygons: origin/destination census tract                                                                  |
+| Calgary, Alberta | [Shared Mobility Pilot Trips](https://data.calgary.ca/browse?q=shared%20mobility%20pilot&sortBy=relevance)                                  | Timestamps rounded to nearest hour                                         | Points: origin/destination centroids of custom hex fishnet. Lines: origin/destination street segment       |
+| Chicago, IL      | [E-Scooter Trips](https://data.cityofchicago.org/Transportation/E-Scooter-Trips-2019-Pilot/2kfw-zvte)                                       | Timestamps rounded to nearest hour                                         | Points: origin/destination census tract centroid; minimum three trips present at start and end tract/time. |
+| Kansas City, MO  | [Microtransit (Scooter and Ebike) Trips](https://data.kcmo.org/Transportation/Microtransit-Scooter-and-Ebike-Trips/dy5n-ewk5)               | Timestamps rounded to nearest 15-min                                       | Points: origin/destination truncated to three decimal places                                               |
+| Louisville, KY   | [Dockless Vehicle Trips](https://data.louisvilleky.gov/dataset/dockless-vehicles)                                                           | Timestamps rounded to nearest 15-min, k-anonymity for infrequent O/D pairs | Points: origin/destination truncated to three decimal places (two decimals for infrequent O/D pairs)       |
+| Minneapolis, MN  | [Motorized Foot Scooter Trips](http://opendata.minneapolismn.gov/datasets/motorized-foot-scooter-trips-2018#__sid=js2)                      | Timestamps rounded to nearest 30-min                                       | Lines: origin/destination street segment                                                                   |
 
 ### Publishing Methodologies and Guides
 
