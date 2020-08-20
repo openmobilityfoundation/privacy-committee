@@ -7,7 +7,7 @@ These resources are provided for reference and do not represent an endorsement o
 ## Contents
 
 - [Privacy Principles, Policies, and Guidelines](#privacy-principles-policies-and-guidelines)
-- [Permit & Licensing Requirements](#permit-&-licensing-requirements)
+- [Permit & Licensing Requirements](#permit-licensing-requirements)
 - [Data Sharing](#data-sharing)
 - [Data Processing, Aggregation, and Anonymization](#data-processing-aggregation-and-anonymization)
 - [Risk Assessment](#risk-assessment)
