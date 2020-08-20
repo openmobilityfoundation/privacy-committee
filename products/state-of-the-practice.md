@@ -16,7 +16,7 @@ These resources are provided for reference and do not represent an endorsement o
 
 ## Privacy Principles, Policies, and Guidelines
 
-### Resources Specific to Mobility
+### Resources Specific to Mobility Data
 
 _Policy documents related to the privacy implications of mobility data collection, storage, and use._
 
@@ -29,6 +29,12 @@ _Policy documents related to the privacy implications of mobility data collectio
 - NACTO: [Guidelines for Managing Mobility Data](https://nacto.org/managingmobilitydata/)
 
 - Open Mobility Foundation: MDS Privacy Guide (in-progress)
+
+- Vianova: [Presentation to POLIS network](https://f.hubspotusercontent30.net/hubfs/6456989/Vianova_Polis-Working-Group_2020.pdf) about GDPR & MDS (see pg. 19-28)
+
+### Consumer Rights
+
+- Vianova: [MDS GDPR statement](https://f.hubspotusercontent30.net/hubfs/6456989/Vianova_GDPR-Statement.pdf), which provides information on how GDPR applies to MDS data and how the parties involved can be compliant.
 
 ### General resources
 
