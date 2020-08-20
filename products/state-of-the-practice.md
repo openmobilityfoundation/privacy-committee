@@ -40,6 +40,7 @@ _Policy documents related to the privacy implications of mobility data collectio
 ## Data Sharing
 
 - Shared-Use Mobility Center: [Objective-Driven Data Sharing for Transit Agencies in Mobility Partnerships](https://learn.sharedusemobilitycenter.org/overview/white-paper-objective-driven-data-sharing-for-transit-agencies-in-mobility-partnerships/)
+- Washington, DC: [Confidential and Non-disclosure Agreement](https://drive.google.com/file/d/1_IfW-rKrUhPO2KaT4oQa6on07edf7Goe/view?usp=sharing) for sharing data with academic instituions.
 
 ## Permit & Licensing Requirements
 
