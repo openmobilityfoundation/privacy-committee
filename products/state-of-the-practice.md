@@ -44,6 +44,8 @@ _Policy documents related to the privacy implications of mobility data collectio
 
 ## Permit & Licensing Requirements
 
+_For a complete list of cities using MDS, see [the Mobility Data Specification readme](https://github.com/openmobilityfoundation/mobility-data-specification/tree/release-1.0.0#cities-using-mds)_
+
 - Austin, TX: [Director Rules for Deployment and Operation of Shared Small Vehicle Mobility Systems](http://austintexas.gov/sites/default/files/files/Transportation/Dockless_Final_Accepted_Searchable.pdf)
 - Long Beach, CA: [Shared Micro-Mobility Program](http://www.longbeach.gov/globalassets/go-active-lb/media-library/documents/programs/micro-mobility-program-e-scooterse-bikes/city-of-long-beach_shared-micro-mobility-program_permit_2019-2020)
 - Los Angeles, CA: [2020 Dockless Mobility Six-Month Permit Extension](https://ladot.lacity.org/sites/default/files/documents/combined-six-month-application-with-attachments_0.pdf)
