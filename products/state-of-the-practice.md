@@ -66,7 +66,7 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 #### Mobility-specific resources
 
-- Minneapolis, MN: [Mobility Data Methodology and Analysis](http://www.minneapolismn.gov/www/groups/public/@publicworks/documents/webcontent/wcmsp-218311.pdf)
+- Minneapolis, MN: [Mobility Data Methodology and Analysis](http://www2.minneapolismn.gov/www/groups/public/@publicworks/documents/webcontent/wcmsp-218311.pdf)
 
 - SAE Mobility Data Collaborative: Data Sharing Glossary and Metrics for Shared Micromobility and Data Sharing Glossary and Metrics for Shared Micromobility, availble [here](https://mdc.sae-itc.com/#work). Must provide email address to download.
 
