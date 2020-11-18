@@ -35,7 +35,7 @@ We are developing a set of principles to guide the OMF as it develops tools and 
 Voting member list for the Privacy, Security, and Transparency Committee. 
 
 **Public Sector**
-- John Clary  -  City of Austin (co-chair)
+- John Clary  -  City of Austin
 - Alex Demisch -  San Francisco Municipal Transportation Agency
 - Stephanie Dock - DDOT (Washington, DC)
 - Danielle Elkins - City of Minneapolis
@@ -45,7 +45,7 @@ Voting member list for the Privacy, Security, and Transparency Committee.
 
 **Private Sector**
 - Ed Fu - Bird
-- Josh Johnson - SPIN (co-chair)
+- Josh Johnson - SPIN (chair)
 - Maggie Mobley - Lacuna
 - Irina Slavina - Blue Systems USA
 
