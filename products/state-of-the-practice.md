@@ -68,6 +68,9 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 - Minneapolis, MN: [Mobility Data Methodology and Analysis](http://www2.minneapolismn.gov/www/groups/public/@publicworks/documents/webcontent/wcmsp-218311.pdf)
 
+- Portland, OR: [Managing Mobility Data]
+(https://www.portland.gov/sites/default/files/2020-09/appendix-a-managing-mobility-data.pdf)
+
 - SAE Mobility Data Collaborative: Data Sharing Glossary and Metrics for Shared Micromobility and Data Sharing Glossary and Metrics for Shared Micromobility, availble [here](https://mdc.sae-itc.com/#work). Must provide email address to download.
 
 - Stae: [Publishing MDS-Derived Fuzzed Trip Data as Open Data](https://support.municipal.systems/hc/en-us/articles/360048160613-Publishing-MDS-Derived-Fuzzed-Trip-Data-as-Open-Data-while-Protecting-Rider-Privacy)
@@ -133,6 +136,9 @@ Open / public mobility data sets, and information about approaches to anonymizat
 
 - Louisville, KY: [Open Data Publishing Methodology](https://github.com/louisvillemetro-innovation/dockless-open-data)
 
+- Portland, OR: [Managing Mobility Data]
+(https://www.portland.gov/sites/default/files/2020-09/appendix-a-managing-mobility-data.pdf)
+
 - Berkman Klein Center: [Open Data Privacy Playbook](https://cyber.harvard.edu/publications/2017/02/opendataprivacyplaybook)
 
 - NIST: [De-Identifying Government Datasets](http://csrc.nist.gov/publications/drafts/800-188/sp800_188_draft.pdf)
@@ -141,11 +147,13 @@ Open / public mobility data sets, and information about approaches to anonymizat
 
 _Public-facing mobility data visualization and reporting tools._
 
-- Louisville, KY: [Dockless Vehicle Origin & Destination Map](https://cdolabs-admin.carto.com/builder/f57ee92e-09c3-4efd-b7c0-3d561cc9e951/embed)
-
 - Austin, TX: [Micromobility Data Explorer](https://github.com/cityofaustin/atd-dockless-dataviz) / [Micromobility Program Reporting Dashboard](https://data.mobility.austin.gov/micromobility-data/)
 
 - Kansas City, MO: [Scooter & E-Bike Heatmap](https://data.kcmo.org/Transportation/Scooter-E-Bike-Heatmap-end-trips-/44zy-nsnr)
+
+- Louisville, KY: [Dockless Vehicle Origin & Destination Map](https://cdolabs-admin.carto.com/builder/f57ee92e-09c3-4efd-b7c0-3d561cc9e951/embed)
+
+- Portland, OR: [E-Scooter Trips Dashboard](https://www.portland.gov/transportation/escooterpdx/trips-dashboard)
 
 ## Outreach and education
 
