@@ -23,6 +23,8 @@ _Policy documents related to the privacy implications of mobility data collectio
 
 - Los Angeles, CA: [LADOT Data Protection Principles](https://clkrep.lacity.org/onlinedocs/2019/19-1355_rpt_DOT_6-14-2020.pdf) (updated June 2020)
 
+- Portland, OR: [Managing Mobility Data](https://www.portland.gov/sites/default/files/2020-09/appendix-a-managing-mobility-data.pdf)
+
 - Seattle, WA: [Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf) / [Privacy Principles](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf)
 
 - Mobility Data Collaborative: [Guidelines for Mobility Data Sharing Governance and Contracting](https://saemobilus.sae.org/content/MDC00001202004/)
@@ -68,8 +70,7 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 - Minneapolis, MN: [Mobility Data Methodology and Analysis](http://www2.minneapolismn.gov/www/groups/public/@publicworks/documents/webcontent/wcmsp-218311.pdf)
 
-- Portland, OR: [Managing Mobility Data]
-(https://www.portland.gov/sites/default/files/2020-09/appendix-a-managing-mobility-data.pdf)
+- Portland, OR: [Managing Mobility Data](https://www.portland.gov/sites/default/files/2020-09/appendix-a-managing-mobility-data.pdf)
 
 - SAE Mobility Data Collaborative: Data Sharing Glossary and Metrics for Shared Micromobility and Data Sharing Glossary and Metrics for Shared Micromobility, availble [here](https://mdc.sae-itc.com/#work). Must provide email address to download.
 
@@ -136,8 +137,7 @@ Open / public mobility data sets, and information about approaches to anonymizat
 
 - Louisville, KY: [Open Data Publishing Methodology](https://github.com/louisvillemetro-innovation/dockless-open-data)
 
-- Portland, OR: [Managing Mobility Data]
-(https://www.portland.gov/sites/default/files/2020-09/appendix-a-managing-mobility-data.pdf)
+- Portland, OR: [Managing Mobility Data](https://www.portland.gov/sites/default/files/2020-09/appendix-a-managing-mobility-data.pdf)
 
 - Berkman Klein Center: [Open Data Privacy Playbook](https://cyber.harvard.edu/publications/2017/02/opendataprivacyplaybook)
 
