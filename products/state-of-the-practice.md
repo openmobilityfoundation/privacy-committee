@@ -25,6 +25,8 @@ _Policy documents related to the privacy implications of mobility data collectio
 
 - Portland, OR: [Managing Mobility Data](https://www.portland.gov/sites/default/files/2020-09/appendix-a-managing-mobility-data.pdf)
 
+- San Diego, CA (SANDAG): [Privacy Impact Assessment for Micromobility Data](https://www.sandag.org/uploads/publicationid/publicationid_4724_28377.pdf)
+
 - Seattle, WA: [Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf) / [Privacy Principles](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf)
 
 - Mobility Data Collaborative: [Guidelines for Mobility Data Sharing Governance and Contracting](https://saemobilus.sae.org/content/MDC00001202004/)
