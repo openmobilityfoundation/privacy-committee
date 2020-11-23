@@ -21,19 +21,19 @@ These resources are provided for reference and do not represent an endorsement o
 
 _Policy documents related to the privacy implications of mobility data collection, storage, and use._
 
+- **Open Mobility Foundation: [MDS Privacy Guide for Cities](https://github.com/openmobilityfoundation/governance/raw/main/documents/OMF-MDS-Privacy-Guide-for-Cities.pdf)**
+
 - Los Angeles, CA: [LADOT Data Protection Principles](https://clkrep.lacity.org/onlinedocs/2019/19-1355_rpt_DOT_6-14-2020.pdf) (updated June 2020)
 
-- Portland, OR: [Managing Mobility Data](https://www.portland.gov/sites/default/files/2020-09/appendix-a-managing-mobility-data.pdf)
+- Portland, OR: [PBOT Managing Mobility Data](https://www.portland.gov/sites/default/files/2020-09/appendix-a-managing-mobility-data.pdf)
 
 - San Diego, CA (SANDAG): [Privacy Impact Assessment for Micromobility Data](https://www.sandag.org/uploads/publicationid/publicationid_4724_28377.pdf)
 
-- Seattle, WA: [Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf) / [Privacy Principles](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf)
+- Seattle, WA: [SDOT Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf) / [Privacy Principles](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf)
 
 - Mobility Data Collaborative: [Guidelines for Mobility Data Sharing Governance and Contracting](https://saemobilus.sae.org/content/MDC00001202004/)
 
 - NACTO: [Guidelines for Managing Mobility Data](https://nacto.org/managingmobilitydata/)
-
-- Open Mobility Foundation: MDS Privacy Guide (in-progress)
 
 - Vianova: [Presentation to POLIS network](https://f.hubspotusercontent30.net/hubfs/6456989/Vianova_Polis-Working-Group_2020.pdf) about GDPR & MDS (see pg. 19-28)
 
