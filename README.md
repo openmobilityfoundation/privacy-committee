@@ -22,9 +22,9 @@ In the near term, our work focuses on three deliverables:
 
 We built a catalog of current principles, policies, methods, and technologies applicable to location data privacy and anonymization.
 
-2. [MDS Privacy Guide for Cities](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-MDS-Privacy-Guide-for-Cities.pdf)
+2. [MDS Privacy Guide for Cities](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-MDS-Privacy-Guide-for-Cities.pdf) [Complete]
 
-The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying out the considerations and best practices related to MDS data and personal privacy. It was authored by teh voting membership of the OMF's Privacy, Security, and Transparency Committee and was approved by the OMF Board of Directors on 2020-09-15.
+The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying out the considerations and best practices related to MDS data and personal privacy. It was authored by the voting membership of the OMF's Privacy, Security, and Transparency Committee and was approved by the OMF Board of Directors on 2020-09-15.
 
 3. Privacy Principles
 
