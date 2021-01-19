@@ -35,6 +35,8 @@ _Policy documents related to the privacy implications of mobility data collectio
 
 - NACTO: [Guidelines for Managing Mobility Data](https://nacto.org/managingmobilitydata/)
 
+- NABSA: [Data Good Practices for Municipalities](https://nabsa.net/wp-content/uploads/2021/01/FINAL-Data-Good-Practices-for-Municipalities_-Understanding-the-General-Bikeshare-Feed-Specification-GBFS-1.pdf)
+
 - Vianova: [Presentation to POLIS network](https://f.hubspotusercontent30.net/hubfs/6456989/Vianova_Polis-Working-Group_2020.pdf) about GDPR & MDS (see pg. 19-28)
 
 ### Consumer Rights
