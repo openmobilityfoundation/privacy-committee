@@ -35,17 +35,16 @@ We are developing a set of principles to guide the OMF as it develops tools and 
 Voting member list for the Privacy, Security, and Transparency Committee. 
 
 **Public Sector**
-- John Clary  -  City of Austin
 - Alex Demisch -  San Francisco Municipal Transportation Agency
 - Stephanie Dock - DDOT (Washington, DC)
-- Danielle Elkins - City of Minneapolis
-- Steve Hoyt-McBeth - Portland Bureau of Transportation
+- Steve Hoyt-McBeth - Portland Bureau of Transportation (co-chair)
 - Eliot Rose - Portland Metro
 - Matt Worona - City of Kelowna
+- _2-3 open positions_
 
 **Private Sector**
-- Ed Fu - Bird
-- Josh Johnson - SPIN (chair)
+- Tom Ciszek - Bird
+- Josh Johnson - SPIN (co-chair)
 - Maggie Mobley - Lacuna
 - Irina Slavina - Blue Systems USA
 
