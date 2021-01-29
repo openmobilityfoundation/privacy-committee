@@ -102,6 +102,8 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 - Santa Monica, CA: [MDS Provider Toolkit](https://github.com/CityofSantaMonica/mds-provider/tree/master/mds)
 
+- Los Angeles, CA: [MDS Core](https://github.com/openmobilityfoundation/mds-core/wiki)
+
 - Google: [Differential privacy libraries and algorithms](https://github.com/google/differential-privacy/)
 
 - SharedStreets: [Mobility Metrics](https://github.com/sharedstreets/mobility-metrics)
@@ -124,14 +126,15 @@ Open / public mobility data sets, and information about approaches to anonymizat
 
 ### Open Datasets
 
-| Entity           | Dataset                                                                                                                                     | Anonymization Method(s)                                                    | Geography                                                                                                  |
+| Entity           | Dataset                                                                                                                                     | Anonymization Method(s)                                                    | Geography | 
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Austin, TX       | [Shared Micromobility Vehicle Trips](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r) | Timestamps rounded to nearest 15-min                                       | Polygons: origin/destination census tract                                                                  |
+| Austin, TX       | [Shared Micromobility Vehicle Trips](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips/7d8e-dm7r) | Timestamps rounded to nearest 15-min                                       | Polygons: origin/destination census tract      |                                                            |
 | Calgary, Alberta | [Shared Mobility Pilot Trips](https://data.calgary.ca/browse?q=shared%20mobility%20pilot&sortBy=relevance)                                  | Timestamps rounded to nearest hour                                         | Points: origin/destination centroids of custom hex fishnet. Lines: origin/destination street segment       |
 | Chicago, IL      | [E-Scooter Trips](https://data.cityofchicago.org/Transportation/E-Scooter-Trips-2019-Pilot/2kfw-zvte)                                       | Timestamps rounded to nearest hour                                         | Points: origin/destination census tract centroid; minimum three trips present at start and end tract/time. |
 | Kansas City, MO  | [Microtransit (Scooter and Ebike) Trips](https://data.kcmo.org/Transportation/Microtransit-Scooter-and-Ebike-Trips/dy5n-ewk5)               | Timestamps rounded to nearest 15-min                                       | Points: origin/destination truncated to three decimal places                                               |
 | Louisville, KY   | [Dockless Vehicle Trips](https://data.louisvilleky.gov/dataset/dockless-vehicles)                                                           | Timestamps rounded to nearest 15-min, k-anonymity for infrequent O/D pairs | Points: origin/destination truncated to three decimal places (two decimals for infrequent O/D pairs)       |
-| Minneapolis, MN  | [Motorized Foot Scooter Trips](http://opendata.minneapolismn.gov/datasets/motorized-foot-scooter-trips-2018#__sid=js2)                      | Timestamps rounded to nearest 30-min                                       | Lines: origin/destination street segment                                                                   |
+| Minneapolis, MN  | [Motorized Foot Scooter Trips](http://opendata.minneapolismn.gov/datasets/motorized-foot-scooter-trips-2018#__sid=js2)                      | Timestamps rounded to nearest 30-min                                       | Lines: origin/destination street segment        | 
+| Portland, OR     | [E-Scooter Trips](https://www.portland.gov/transportation/escooterpdx/trips-dashboard#toc-downloading-underlying-data)                      | Timestamps rounded to nearest hour, day of month not known                 | Polygons: origin/destination census block groups |  
 
 ### Publishing Methodologies and Guides
 
