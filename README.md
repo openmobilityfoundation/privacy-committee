@@ -12,9 +12,9 @@ We meet on a monthly basis in an open forum. Refer to the [OMF Public Calendar](
 
 ## Current Work
 
-Per our charter, 
+The Privacy, Security and Transparency committee will review and develop policy for appropriate transparency and data protection measures such as privacy, data retention and anonymization features, as well as technical security practices related to urban mobility data including but not limited to encryption, role-based access control, and penetration testing.  These policies shall support responsible and trustworthy data management practices that serve individual privacy, security, transparency and safety.
 
-> The Privacy, Security and Transparency committee will review and develop policy for appropriate transparency and data protection measures such as privacy, data retention and anonymization features, as well as technical security practices related to urban mobility data including but not limited to encryption, role-based access control, and penetration testing.  These policies shall support responsible and trustworthy data management practices that serve individual privacy, security, transparency and safety.
+Read the full [Privacy, Security, and Transparency Committee charter](https://github.com/openmobilityfoundation/governance/raw/main/documents/OMF-Privacy-Committee-Charter.pdf) (PDF).
 
 In the near term, our work focuses on three deliverables:
 
