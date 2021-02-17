@@ -29,6 +29,8 @@ _Policy documents related to the privacy implications of mobility data collectio
 
 - San Diego, CA (SANDAG): [Privacy Impact Assessment for Micromobility Data](https://www.sandag.org/uploads/publicationid/publicationid_4724_28377.pdf)
 
+- San Jose, CA: [Shared Micro-Mobility Permit Data Protection Principles](https://www.sanjoseca.gov/home/showpublisheddocument?id=67728)
+
 - Seattle, WA: [SDOT Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf) / [Privacy Principles](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf)
 
 - Mobility Data Collaborative: [Guidelines for Mobility Data Sharing Governance and Contracting](https://saemobilus.sae.org/content/MDC00001202004/)
