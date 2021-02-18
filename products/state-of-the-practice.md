@@ -110,6 +110,8 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 - Los Angeles, CA: [MDS Core](https://github.com/openmobilityfoundation/mds-core/wiki)
 
+- Los Angeles, CA: [MDS Data Validator](https://github.com/cityoflosangeles/mds-validator)
+
 - Google: [Differential privacy libraries and algorithms](https://github.com/google/differential-privacy/)
 
 - SharedStreets: [Mobility Metrics](https://github.com/sharedstreets/mobility-metrics)
