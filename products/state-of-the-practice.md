@@ -114,6 +114,8 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 - SharedStreets: [Mobility Metrics](https://github.com/sharedstreets/mobility-metrics)
 
+- Blue Systems: [MDS Validator Tools](https://github.com/Polyconseil/mds-agency-validator)
+
 ## Risk Assessment
 
 Toolkits and resources for understanding and managing risk associated with mobility data.
