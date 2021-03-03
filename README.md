@@ -43,10 +43,10 @@ Voting member list for the Privacy, Security, and Transparency Committee.
 - _2-3 open positions_
 
 **Private Sector**
-- Tom Ciszek - Bird
 - Josh Johnson - SPIN (co-chair)
 - Maggie Mobley - Lacuna
 - Irina Slavina - Blue Systems USA
+- _1-2 open positions_
 
 ## Meeting Notes
 
