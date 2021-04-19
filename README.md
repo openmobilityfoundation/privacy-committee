@@ -38,12 +38,16 @@ Voting member list for the Privacy, Security, and Transparency Committee.
 - Alex Demisch -  San Francisco Municipal Transportation Agency
 - Stephanie Dock - DDOT (Washington, DC)
 - Steve Hoyt-McBeth - Portland Bureau of Transportation (co-chair)
+- Ryan Kurtzman - City of Long Beach
+- Pamela Lee - City of Los Angeles
 - Eliot Rose - Portland Metro
+- Cordell Schachter - New York City DOT
+- Matthew N.K. Smith - City of Boston
 - Matt Worona - City of Kelowna
-- _2-3 open positions_
 
 **Private Sector**
 - Josh Johnson - SPIN (co-chair)
+- Harris Lummis - Automotus
 - Maggie Mobley - Lacuna
 - Irina Slavina - Blue Systems USA
 - Laurence Wilse-Samson - Bird
