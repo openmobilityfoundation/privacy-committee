@@ -78,7 +78,7 @@ _Methodologies and tools for ingesting, aggregating, and anonymizing mobility da
 
 #### Mobility-specific resources
 
-- Minneapolis, MN: [Mobility Data Methodology and Analysis](http://www2.minneapolismn.gov/www/groups/public/@publicworks/documents/webcontent/wcmsp-218311.pdf)
+- Minneapolis, MN: [Mobility Data Methodology and Analysis](https://www2.minneapolismn.gov/media/content-assets/www2-documents/residents/Minneapolis-Mobility-Methodology-And-Analysis.pdf)
 
 - Portland, OR: [Managing Mobility Data](https://www.portland.gov/sites/default/files/2020-09/appendix-a-managing-mobility-data.pdf)
 
