@@ -170,6 +170,8 @@ _Public-facing mobility data visualization and reporting tools._
 
 - Louisville, KY: [Dockless Vehicle Origin & Destination Map](https://cdolabs-admin.carto.com/builder/f57ee92e-09c3-4efd-b7c0-3d561cc9e951/embed)
 
+- Minneapolis, MN: [Scooter compliance dashboard](https://www.minneapolismn.gov/government/government-data/datasource/2021-scooter-dashboard/)
+
 - Portland, OR: [E-Scooter Trips Dashboard](https://www.portland.gov/transportation/escooterpdx/trips-dashboard)
 
 ## Outreach and education
