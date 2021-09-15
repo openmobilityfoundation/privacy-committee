@@ -38,24 +38,25 @@ Guidance and Q&A for cities and companies using MDS under the European GDPR fram
 
 Voting member list for the Privacy, Security, and Transparency Committee. 
 
-**Public Sector**
-- Alex Demisch -  San Francisco Municipal Transportation Agency
-- Stephanie Dock - DDOT (Washington, DC)
-- Steve Hoyt-McBeth - Portland Bureau of Transportation (co-chair)
-- Ryan Kurtzman - City of Long Beach
-- Pamela Lee - City of Los Angeles
-- Eliot Rose - Portland Metro
-- Cordell Schachter - New York City DOT
-- Matthew N.K. Smith - City of Boston
-- Matt Worona - City of Kelowna
-
-**Private Sector**
-- Josh Johnson - SPIN (co-chair)
-- Harris Lummis - Automotus
-- Maggie Mobley - Lacuna
-- Irina Slavina - Blue Systems USA
-- Laurence Wilse-Samson - Bird
+| Name | Organization | Sector | Role | Elected Date |
+|---|---|---|---|---|
+| Alex Demisch | San Francisco MTA | _Public_ | Member | Jun 24, 2020 |
+| Stephanie Dock | DDOT (Washington, DC) | _Public_ | Member | Jun 24, 2020 |
+| Steve Hoyt-McBeth | Portland Bureau of Transportation | _Public_ | **Chair** | Jan 28, 2021 |
+| Josh Johnson | SPIN | Private | **Chair** | Jun 24, 2020 |
+| Ryan Kurtzman | City of Long Beach | _Public_ | Member | Apr 19, 2021 |
+| Pamela Lee | City of Los Angeles | _Public_ | Member | Apr 19, 2021 |
+| Harris Lummis | Automotus | Private | Member | Apr 19, 2021 |
+| Maggie Mobley | Lacuna | Private | Member | Jun 24, 2020 |
+| Eliot Rose | Portland Metro | _Public_ | Member | Jun 24, 2020 |
+| Cordell Schachter | New York City DOTA | _Public_ | Member | Apr 19, 2021 |
+| Irina Slavina | Blue Systems USA | Private | Member | Jun 24, 2020 |
+| Matthew N.K. Smith | City of Boston | _Public_ | Member | Apr 19, 2021 |
+| Laurence Wilse-Samson | Bird | Private | Member | Mar 5, 2021 |
+| Matt Worona | City of Kelowna | _Public_ | Member | Jun 24, 2020 |
 
 ## Meeting Notes
+
+The Committee holds monthly meetings, listed on the [OMF Public Calendar](https://github.com/openmobilityfoundation/mobility-data-specification/wiki#omf-public-calendar).
 
 - [18 Feb 2020 Meeting Notes](https://github.com/openmobilityfoundation/privacy-committee/issues/11)
