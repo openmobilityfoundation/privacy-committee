@@ -34,6 +34,7 @@ _Policy documents related to the privacy implications of mobility data collectio
 - Seattle, WA: [SDOT Mobility Data Privacy and Handling Guidelines](https://www.seattle.gov/Documents/Departments/SDOT/NewMobilityProgram/Mobility_Data_Guidelines_01142020.pdf) / [Privacy Principles](https://www.seattle.gov/Documents/Departments/InformationTechnology/City-of-Seattle-Privacy-Principles-FINAL.pdf)
 
 - Mobility Data Collaborative: [Guidelines for Mobility Data Sharing Governance and Contracting](https://saemobilus.sae.org/content/MDC00001202004/)
+- Mobility Data Collaborative / Future of Privacy Forum: [Mobility Data Sharing Assessment Toolkit](https://fpf.org/blog/fpf-and-mobility-data-collaborative-release-resources-to-help-organizations-assess-the-privacy-risks-of-sharing-of-mobility-data/)
 
 - NACTO: [Guidelines for Managing Mobility Data](https://nacto.org/managingmobilitydata/)
 
