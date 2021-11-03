@@ -16,9 +16,9 @@ The Privacy, Security and Transparency committee will review and develop po
 
 Read the full [Privacy, Security, and Transparency Committee charter](https://github.com/openmobilityfoundation/governance/raw/main/documents/OMF-Privacy-Committee-Charter.pdf) (PDF).
 
-Our work thusfar focuses on these deliverables:
+Our work thus far focuses on these deliverables:
 
-1. [Inventory of the State of Practice](/products/state-of-the-practice.md) [Complete]
+1. [Inventory of the State of Practice](/products/state-of-the-practice.md) [Complete and Ongoing]
 
 We built a catalog of current principles, policies, methods, and technologies applicable to location data privacy and anonymization.
 
@@ -26,7 +26,7 @@ We built a catalog of current principles, policies, methods, and technologies ap
 
 The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying out the considerations and best practices related to MDS data and personal privacy. It was authored by the voting membership of the OMF's Privacy, Security, and Transparency Committee and was approved by the OMF Board of Directors on 2020-09-15.
 
-3. Privacy Principles  [In Progress]
+3. Privacy Principles [In Progress]
 
 We are developing a set of principles to guide the OMF as it develops tools and technologies, and to articulate the common ground among public- and private-sector users of mobility data about the need to respect and protect individual privacy. The initial focus is on audio and video in devices.
 
@@ -49,14 +49,11 @@ Voting member list for the Privacy, Security, and Transparency Committee.
 | Harris Lummis | Automotus | Private | Member | Apr 19, 2021 |
 | Maggie Mobley | Lacuna | Private | Member | Jun 24, 2020 |
 | Eliot Rose | Portland Metro | _Public_ | Member | Jun 24, 2020 |
-| Cordell Schachter | New York City DOTA | _Public_ | Member | Apr 19, 2021 |
 | Irina Slavina | Blue Systems USA | Private | Member | Jun 24, 2020 |
-| Matthew N.K. Smith | City of Boston | _Public_ | Member | Apr 19, 2021 |
 | Laurence Wilse-Samson | Bird | Private | Member | Mar 5, 2021 |
 | Matt Worona | City of Kelowna | _Public_ | Member | Jun 24, 2020 |
 
-## Meeting Notes
+## Meetings
 
-The Committee holds monthly meetings, listed on the [OMF Public Calendar](https://github.com/openmobilityfoundation/mobility-data-specification/wiki#omf-public-calendar).
+The Committee holds monthly meetings, listed on the [OMF Public Calendar](https://github.com/openmobilityfoundation/mobility-data-specification/wiki#omf-public-calendar). You can see past agendas and links on the [mailing list](https://groups.google.com/a/openmobilityfoundation.org/g/privcomm).
 
-- [18 Feb 2020 Meeting Notes](https://github.com/openmobilityfoundation/privacy-committee/issues/11)
