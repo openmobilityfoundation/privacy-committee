@@ -26,9 +26,9 @@ We built a catalog of current principles, policies, methods, and technologies ap
 
 The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying out the considerations and best practices related to MDS data and personal privacy. It was authored by the voting membership of the OMF's Privacy, Security, and Transparency Committee and was approved by the OMF Board of Directors on 2020-09-15.
 
-3. Privacy Principles [In Progress]
+3. [Privacy Principles for Mobility Data](http://mobilitydataprivacyprinciples.org) [Complete]
 
-We are developing a set of principles to guide the OMF as it develops tools and technologies, and to articulate the common ground among public- and private-sector users of mobility data about the need to respect and protect individual privacy. The initial focus is on audio and video in devices.
+Working with NABSA and NUMO, we developed a set of principles to guide organizations working with mobility data to protect individual pivacy. These principles were released in October 2021 and have been formally endorsed by the OMF.
 
 4. GDPR Guidance [In Progress]
 
