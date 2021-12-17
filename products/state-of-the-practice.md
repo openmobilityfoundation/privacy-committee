@@ -169,11 +169,11 @@ _Public-facing mobility data visualization and reporting tools._
 
 - Kansas City, MO: [Scooter & E-Bike Heatmap](https://data.kcmo.org/Transportation/Scooter-E-Bike-Heatmap-end-trips-/44zy-nsnr)
 
-- Louisville, KY: [Dockless Vehicle Origin & Destination Map](https://cdolabs-admin.carto.com/builder/f57ee92e-09c3-4efd-b7c0-3d561cc9e951/embed)
+- Louisville, KY: [Dockless Vehicle Origin & Destination Map](https://cdolabs-admin.carto.com/builder/f57ee92e-09c3-4efd-b7c0-3d561cc9e951/embed) and [with filters and export](https://lou-ky.municipal.systems/map#state=eJxtjr0OwjAMhN%252FFc1PFSVO32RiRYIKJLSIGKiipSspPUd%252BdFDEy2dLdfXdvaF0H9g33hh9d6OP8X1xs4uAZrK5ypRGl1rWuSZYmg0u4Hn%252BqqExOBZVkUBmFREUGYwgtWFQ5lTVKI5NQqsSYpgziidsUA%252B%252F6M2TpRLdyL%252B5vc%252Bl%252BuMXQisMwjuxF7JvvrKFLLvaLtAuUVChQCaQt1laSLTCvCrP7obavjpc%252B%252Bf6Q5vYTPzfNyGv3BGvQVNMHxvZMMQ%253D%253D)
 
 - Minneapolis, MN: [Scooter compliance dashboard](https://www.minneapolismn.gov/government/government-data/datasource/2021-scooter-dashboard/)
 
-- Portland, OR: [E-Scooter Trips Dashboard](https://www.portland.gov/transportation/escooterpdx/trips-dashboard)
+- Portland, OR: [E-Scooter Trips Dashboard](https://www.portland.gov/transportation/escooterpdx/trips-dashboard) and [Interactive street segment map](https://public.ridereport.com/pdx?vehicle=all&time=all)
 
 ## Outreach and education
 
