@@ -30,7 +30,7 @@ The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying
 
 Working with NABSA and NUMO, we developed a set of principles to guide organizations working with mobility data to protect individual pivacy. These principles were released in October 2021 and have been formally endorsed by the OMF.
 
-4. GDPR Guidance [In Progress]
+4. [Using MDS Under GDPR ](https://www.openmobilityfoundation.org/using-mds-under-gdpr/) [Complete]
 
 Guidance and Q&A for cities and companies using MDS under the European GDPR framework.
 
