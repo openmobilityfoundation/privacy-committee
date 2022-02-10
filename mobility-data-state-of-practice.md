@@ -1,1 +1,0 @@
-This file has been deprecated and will soon be removed. Please go [here](https://github.com/openmobilityfoundation/privacy-committee/blob/main/products/state-of-the-practice.md) for the Mobility Data Management State of Practice.
