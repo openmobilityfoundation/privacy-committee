@@ -40,18 +40,18 @@ Voting member list for the Privacy, Security, and Transparency Committee.
 
 | Name | Organization | Sector | Role | Elected Date |
 |---|---|---|---|---|
-| Alex Demisch | San Francisco MTA | _Public_ | Member | Jun 24, 2020 |
+| Diego Canales | Populus | Private | Member | Jan 2022 |
+| Alex Demisch | San Francisco MTA | _Public_ | Member | January 24, 2020 |
 | Stephanie Dock | DDOT (Washington, DC) | _Public_ | Member | Jun 24, 2020 |
-| Steve Hoyt-McBeth | Portland Bureau of Transportation | _Public_ | **Chair** | Jan 28, 2021 |
+| Daniel Flyte | SANDAG | _Public_ | Member | Jan 2022 |
+| William Henderson | Ride Report | Private | Member | Jan 2022 |
 | Josh Johnson | SPIN | Private | **Chair** | Jun 24, 2020 |
 | Ryan Kurtzman | City of Long Beach | _Public_ | Member | Apr 19, 2021 |
 | Pamela Lee | City of Los Angeles | _Public_ | Member | Apr 19, 2021 |
-| Harris Lummis | Automotus | Private | Member | Apr 19, 2021 |
+| Brooke McKenna | City of Cambridge | _Public_ | Member | Jan 2022 |
 | Maggie Mobley | Lacuna | Private | Member | Jun 24, 2020 |
 | Eliot Rose | Portland Metro | _Public_ | Member | Jun 24, 2020 |
 | Irina Slavina | Blue Systems USA | Private | Member | Jun 24, 2020 |
-| Laurence Wilse-Samson | Bird | Private | Member | Mar 5, 2021 |
-| Matt Worona | City of Kelowna | _Public_ | Member | Jun 24, 2020 |
 
 ## Meetings
 
