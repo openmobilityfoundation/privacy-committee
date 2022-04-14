@@ -175,6 +175,8 @@ _Public-facing mobility data visualization and reporting tools._
 
 - Portland, OR: [E-Scooter Trips Dashboard](https://www.portland.gov/transportation/escooterpdx/trips-dashboard) and [Interactive street segment map](https://public.ridereport.com/pdx?vehicle=all&time=all)
 
+- Seattle, WA: [Mobility Dashboards](https://app.powerbigov.us/view?r=eyJrIjoiODJmMzA3N2ItMmUxMy00ZDcxLTg5ODAtODMxZThiNTgwZjE3IiwidCI6Ijc4ZTYxZTQ1LTZiZWItNDAwOS04Zjk5LTM1OWQ4YjU0ZjQxYiJ9&pageName=ReportSection)
+
 ## Outreach and education
 
 _Resources for public education and outreach related to mobility data and privacy._
