@@ -146,6 +146,7 @@ Open / public mobility data sets, and information about approaches to anonymizat
 | Louisville, KY   | [Dockless Vehicle Trips](https://data.louisvilleky.gov/dataset/dockless-vehicles)                                                           | Timestamps rounded to nearest 15-min, k-anonymity for infrequent O/D pairs | Points: origin/destination truncated to three decimal places (two decimals for infrequent O/D pairs)       |
 | Minneapolis, MN  | [Motorized Foot Scooter Trips and Availability](https://opendata.minneapolismn.gov/search?groupIds=9bc71a032e984a22a5e94312d9d9bf7f) by year                      | Timestamps rounded to nearest 30-min                                       | Lines: origin/destination street segment        | 
 | Portland, OR     | [E-Scooter Trips](https://www.portland.gov/transportation/escooterpdx/trips-dashboard#toc-downloading-underlying-data)                      | Timestamps rounded to nearest hour, day of month not known                 | Polygons: origin/destination census block groups |  
+| Ride Report     | [Open Data Dashboard](https://public.ridereport.com/) (multiple cities)                   | Dates/times aggregated by quarter                 | Lines: trip counts by street segment |  
 
 ### Publishing Methodologies and Guides
 
