@@ -46,7 +46,6 @@ Voting member list for the Privacy, Security, and Transparency Committee.
 | Stephanie Dock | DDOT (Washington, DC) | _Public_ | Member | Jun 24, 2020 |
 | Daniel Flyte | SANDAG | _Public_ | Member | Jan 24, 2022 |
 | William Henderson | Ride Report | Private | Member | Jan 24, 2022 |
-| Josh Johnson | SPIN | Private | **Chair** | Jun 24, 2020 |
 | Ryan Kurtzman | City of Long Beach | _Public_ | Member | Apr 19, 2021 |
 | Pamela Lee | City of Los Angeles | _Public_ | Member | Apr 19, 2021 |
 | Maggie Mobley | Lacuna | Private | Member | Jun 24, 2020 |
