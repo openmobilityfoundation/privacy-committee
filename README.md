@@ -20,23 +20,27 @@ Our work thus far focuses on these deliverables:
 
 1. [Inventory of the State of Practice](/products/state-of-the-practice.md) [Complete and Ongoing]
 
-We built a catalog of current principles, policies, methods, and technologies applicable to location data privacy and anonymization.
+   - We built a catalog of current principles, policies, methods, and technologies applicable to location data privacy and anonymization.
 
 2. [MDS Privacy Guide for Cities](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-MDS-Privacy-Guide-for-Cities.pdf) [Complete and Ongoing]
 
-The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying out the considerations and best practices related to MDS data and personal privacy. It was authored by the voting membership of the OMF's Privacy, Security, and Transparency Committee and was approved by the OMF Board of Directors on 2020-09-15, revised for MDS 2.0 on 2023-03-17.
+   - The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying out the considerations and best practices related to MDS data and personal privacy. It was authored by the voting membership of the OMF's Privacy, Security, and Transparency Committee and was approved by the OMF Board of Directors on 2020-09-15, revised for MDS 2.0 on 2023-03-17.
 
-3. [Privacy Principles for Mobility Data](http://mobilitydataprivacyprinciples.org) [Complete]
+3. [CDS Privacy Guidance](https://docs.google.com/document/d/1nujWaj1ScxQ-1I9_BGrMKZ_mV_8mbk8tG_C21CQO7Cw/edit?usp=sharing) [Complete and Ongoing]
 
-Working with NABSA and NUMO, we developed a set of principles to guide organizations working with mobility data to protect individual pivacy. These principles were released in October 2021 and have been formally endorsed by the OMF.
+   - Helps equip cities with the support and resources they need to implement CDS, and keep the information they handle safe and secure. This guide identifies relevant data in CDS, use cases, and provides suggestions on the safe handling of this data. 
 
-4. [Using MDS Under GDPR](https://www.openmobilityfoundation.org/using-mds-under-gdpr/) [Complete and Ongoing]
+4. [Privacy Principles for Mobility Data](http://mobilitydataprivacyprinciples.org) [Complete]
 
-Guidance and Q&A for cities and companies using MDS under the European GDPR framework.
+   - Working with NABSA and NUMO, we developed a set of principles to guide organizations working with mobility data to protect individual pivacy. These principles were released in October 2021 and have been formally endorsed by the OMF.
 
-5. [Use Case Database](https://www.openmobilityfoundation.org/whats-possible-with-mds/) [Complete and Ongoing]
+5. [Using MDS Under GDPR](https://www.openmobilityfoundation.org/using-mds-under-gdpr/) [Complete and Ongoing]
 
-Dynamic database of MDS use cases to illustrate the specific ways in which cities are using MDS to create policy, enforce rules, manage hundreds of devices, and ensure the safe operation of vehicles in the public right of way. See the use case [blog post](https://www.openmobilityfoundation.org/use-cases-how-why-cities-use-mds/).
+   - Guidance and Q&A for cities and companies using MDS under the European GDPR framework.
+
+6. [Use Case Database](https://www.openmobilityfoundation.org/whats-possible-with-mds/) [Complete and Ongoing]
+
+   - Dynamic database of MDS use cases to illustrate the specific ways in which cities are using MDS to create policy, enforce rules, manage hundreds of devices, and ensure the safe operation of vehicles in the public right of way. See the use case [blog post](https://www.openmobilityfoundation.org/use-cases-how-why-cities-use-mds/).
 
 ## Committee Members
 
