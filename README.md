@@ -22,17 +22,21 @@ Our work thus far focuses on these deliverables:
 
 We built a catalog of current principles, policies, methods, and technologies applicable to location data privacy and anonymization.
 
-2. [MDS Privacy Guide for Cities](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-MDS-Privacy-Guide-for-Cities.pdf) [Complete]
+2. [MDS Privacy Guide for Cities](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-MDS-Privacy-Guide-for-Cities.pdf) [Complete and Ongoing]
 
-The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying out the considerations and best practices related to MDS data and personal privacy. It was authored by the voting membership of the OMF's Privacy, Security, and Transparency Committee and was approved by the OMF Board of Directors on 2020-09-15.
+The MDS Privacy Guide is intended to help cities responsibly adopt MDS by laying out the considerations and best practices related to MDS data and personal privacy. It was authored by the voting membership of the OMF's Privacy, Security, and Transparency Committee and was approved by the OMF Board of Directors on 2020-09-15, revised for MDS 2.0 on 2023-03-17.
 
 3. [Privacy Principles for Mobility Data](http://mobilitydataprivacyprinciples.org) [Complete]
 
 Working with NABSA and NUMO, we developed a set of principles to guide organizations working with mobility data to protect individual pivacy. These principles were released in October 2021 and have been formally endorsed by the OMF.
 
-4. [Using MDS Under GDPR ](https://www.openmobilityfoundation.org/using-mds-under-gdpr/) [Complete]
+4. [Using MDS Under GDPR](https://www.openmobilityfoundation.org/using-mds-under-gdpr/) [Complete and Ongoing]
 
 Guidance and Q&A for cities and companies using MDS under the European GDPR framework.
+
+5. [Use Case Database](https://www.openmobilityfoundation.org/whats-possible-with-mds/) [Complete and Ongoing]
+
+Dynamic database of MDS use cases to illustrate the specific ways in which cities are using MDS to create policy, enforce rules, manage hundreds of devices, and ensure the safe operation of vehicles in the public right of way. See the use case [blog post](https://www.openmobilityfoundation.org/use-cases-how-why-cities-use-mds/).
 
 ## Committee Members
 
@@ -40,19 +44,16 @@ Voting member list for the Privacy, Security, and Transparency Committee.
 
 | Name | Organization | Sector | Role | Elected Date |
 |---|---|---|---|---|
-| Joe Barr | City of Cambridge | _Public_ | Member | Jan 24, 2022 |
-| Diego Canales | Populus | Private | Member | Jan 24, 2022 |
-| Alex Demisch | San Francisco MTA | _Public_ | Member | Jan 24, 2020 |
-| Stephanie Dock | DDOT (Washington, DC) | _Public_ | Member | Jun 24, 2020 |
-| Daniel Flyte | SANDAG | _Public_ | Member | Jan 24, 2022 |
-| William Henderson | Ride Report | Private | Member | Jan 24, 2022 |
-| Ryan Kurtzman | City of Long Beach | _Public_ | Member | Apr 19, 2021 |
-| Pamela Lee | City of Los Angeles | _Public_ | Member | Apr 19, 2021 |
-| Maggie Mobley | Lacuna | Private | Member | Jun 24, 2020 |
-| Eliot Rose | Portland Metro | _Public_ | Member | Jun 24, 2020 |
-| Irina Slavina | Blue Systems USA | Private | Member | Jun 24, 2020 |
+| Beryl Dreijer | Amsterdam | _Public_ | Member | Apr 4, 2023 |
+| Marla Westervelt | Populus | Private | Member | Apr 4, 2023 |
+| Brian Manford | San Francisco MTA | _Public_ | Member | Apr 4, 2023 |
+| Stephanie Dock | DDOT (Washington, DC) | _Public_ | Member | Apr 4, 2023 |
+| Harris Lummis | Automotus | Private | Member | Apr 4, 2023 |
+| Vlad Gallegos | City of Los Angeles | _Public_ | Member | Apr 4, 2023 |
+| Mike Privette | Passport | Private | Member | Apr 4, 2023 |
+| Irina Slavina | Blue Systems USA | Private | Member | Apr 4, 2023 |
 
 ## Meetings
 
-The Committee holds monthly meetings, listed on the [OMF Public Calendar](https://github.com/openmobilityfoundation/mobility-data-specification/wiki#omf-public-calendar). You can see past agendas and links on the [mailing list](https://groups.google.com/a/openmobilityfoundation.org/g/privcomm).
+The Committee holds regular meetings, listed on the [OMF Public Calendar](https://github.com/openmobilityfoundation/mobility-data-specification/wiki#omf-public-calendar). You can see past agendas and links on the [mailing list](https://groups.google.com/a/openmobilityfoundation.org/g/privcomm).
 
