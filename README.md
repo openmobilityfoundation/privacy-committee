@@ -49,7 +49,6 @@ Voting member list for the Privacy, Security, and Transparency Committee.
 | Name | Organization | Sector | Role | Elected Date |
 |---|---|---|---|---|
 | Beryl Dreijer | Amsterdam | _Public_ | Member | Apr 4, 2023 |
-| Marla Westervelt | Populus | Private | Member | Apr 4, 2023 |
 | Brian Manford | San Francisco MTA | _Public_ | Member | Apr 4, 2023 |
 | Stephanie Dock | DDOT (Washington, DC) | _Public_ | Member | Apr 4, 2023 |
 | Harris Lummis | Automotus | Private | Member | Apr 4, 2023 |
