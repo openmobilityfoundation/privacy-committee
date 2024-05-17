@@ -44,7 +44,7 @@ Our work thus far focuses on these deliverables:
 
 ## Committee Members
 
-Voting member list for the Privacy, Security, and Transparency Committee. 
+Voting member list for the Privacy, Security, and Transparency Committee. One year term.
 
 | Name | Organization | Sector | Role | Elected Date |
 |---|---|---|---|---|
