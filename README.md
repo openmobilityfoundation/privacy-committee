@@ -50,6 +50,7 @@ Voting member list for the Privacy, Security, and Transparency Committee.
 |---|---|---|---|---|
 | Beryl Dreijer | Amsterdam | _Public_ | Member | Apr 4, 2023 |
 | Brian Manford | San Francisco MTA | _Public_ | Member | Apr 4, 2023 |
+| Mike Privette | Passport | Private | Member | Apr 4, 2023 |
 | Stephanie Dock | DDOT (Washington, DC) | _Public_ | Member | Apr 4, 2023 |
 | Vlad Gallegos | City of Los Angeles | _Public_ | Member | Apr 4, 2023 |
 | Irina Slavina | Blue Systems | Private | Member | Apr 4, 2023 |
