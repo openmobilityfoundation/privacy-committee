@@ -42,6 +42,10 @@ Our work thus far focuses on these deliverables:
 
    - Dynamic database of MDS use cases to illustrate the specific ways in which cities are using MDS to create policy, enforce rules, manage hundreds of devices, and ensure the safe operation of vehicles in the public right of way. See the use case [blog post](https://www.openmobilityfoundation.org/use-cases-how-why-cities-use-mds/).
 
+7. [Understanding the Data in MDS](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Understanding-the-Data-in-MDS) [Complete and Ongoing]
+
+   - This document contains lists of potentially sensitive data and fields within MDS APIs and endpoints, how to make any fields optional for a program, and a list of data that is NOT in MDS.
+
 ## Committee Members
 
 Voting member list for the Privacy, Security, and Transparency Committee. One year term.
